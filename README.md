@@ -31,7 +31,8 @@ At present, the project includes a core set of ESP features:
 
 [Preview of ESP (streamable)](https://streamable.com/lkwjmm)
 
-For any questions, join my Discord server: https://discord.gg/q6cra6wUQA
+Discord: https://dsc.gg/xingzhe
+Telegram: https://t.me/xingzhe_official
 
 ---
 
